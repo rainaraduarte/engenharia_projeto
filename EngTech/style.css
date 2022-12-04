@@ -228,6 +228,18 @@ h3{
         text-align: center;
         margin-top: 40px;
     }
+    main .main__img2,
+    main .main__text2{
+        width: 100%;
+        text-align: center;
+        margin-top: 40px;
+    }
+    main .main__img3,
+    main .main__text3{
+        width: 100%;
+        text-align: center;
+        margin-top: 40px;
+    }
 }
 @media (max-width:500px) {
     .main__text .main__text-footer{
